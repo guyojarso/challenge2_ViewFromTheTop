@@ -146,7 +146,8 @@ You can use the following resources to to get acquainted with some feature selec
   - Successive interviews for projects MAY be run to satisfy participating african.ai partners
 
 
-
+----------------------------------------------------------------
+I tried many models such as AdaBoost, SVMS, Linear Discriminant Analysis, Random Forest, Gradient Boosting etc. The best performing models were Random Forest, ExtraTrees Classifier and Gradient Boosting. The best model was ExtraTrees Classifier, to increase the accuracy, I reduced the skewness to under 3 for all columns and selected 20 most important features, leaving out the 128 other features for model training. 
 
 
 
